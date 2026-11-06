@@ -92,6 +92,7 @@ stufield/agent-skills,2026-11-01,0,0
 stufield/agent-skills,2026-11-02,0,0
 stufield/agent-skills,2026-11-03,0,0
 stufield/agent-skills,2026-11-04,0,0
+stufield/agent-skills,2026-11-05,0,0
 stufield/App-AdatConc,2026-08-05,0,0
 stufield/App-AdatConc,2026-08-06,0,0
 stufield/App-AdatConc,2026-08-07,0,0
@@ -185,6 +186,7 @@ stufield/App-AdatConc,2026-11-02,0,0
 stufield/App-AdatConc,2026-11-03,0,0
 stufield/App-AdatConc,2026-11-04,0,0
 stufield/App-AdatConc,2026-11-05,0,0
+stufield/App-AdatConc,2026-11-06,0,0
 stufield/art-lab-manual,2026-08-05,0,0
 stufield/art-lab-manual,2026-08-06,0,0
 stufield/art-lab-manual,2026-08-07,0,0
@@ -278,6 +280,7 @@ stufield/art-lab-manual,2026-11-02,0,0
 stufield/art-lab-manual,2026-11-03,0,0
 stufield/art-lab-manual,2026-11-04,0,0
 stufield/art-lab-manual,2026-11-05,0,0
+stufield/art-lab-manual,2026-11-06,0,0
 stufield/calcr,2026-08-05,0,0
 stufield/calcr,2026-08-06,0,0
 stufield/calcr,2026-08-07,0,0
@@ -371,6 +374,7 @@ stufield/calcr,2026-11-02,0,0
 stufield/calcr,2026-11-03,0,0
 stufield/calcr,2026-11-04,0,0
 stufield/calcr,2026-11-05,0,0
+stufield/calcr,2026-11-06,0,0
 stufield/careers,2026-08-04,0,0
 stufield/careers,2026-08-05,0,0
 stufield/careers,2026-08-06,0,0
@@ -462,6 +466,7 @@ stufield/careers,2026-11-02,0,0
 stufield/careers,2026-11-03,0,0
 stufield/careers,2026-11-04,0,0
 stufield/careers,2026-11-05,0,0
+stufield/careers,2026-11-06,0,0
 stufield/code-works,2026-08-04,0,0
 stufield/code-works,2026-08-05,0,0
 stufield/code-works,2026-08-06,0,0
@@ -745,6 +750,7 @@ stufield/csu-career-day-2018,2026-11-01,0,0
 stufield/csu-career-day-2018,2026-11-02,0,0
 stufield/csu-career-day-2018,2026-11-03,0,0
 stufield/csu-career-day-2018,2026-11-04,0,0
+stufield/csu-career-day-2018,2026-11-05,0,0
 stufield/devel,2026-08-02,0,0
 stufield/devel,2026-08-03,0,0
 stufield/devel,2026-08-04,0,0
@@ -840,6 +846,7 @@ stufield/devel,2026-11-01,0,0
 stufield/devel,2026-11-02,0,0
 stufield/devel,2026-11-03,0,0
 stufield/devel,2026-11-04,0,0
+stufield/devel,2026-11-05,0,0
 stufield/enveda,2026-08-05,0,0
 stufield/enveda,2026-08-06,0,0
 stufield/enveda,2026-08-07,0,0
@@ -933,6 +940,7 @@ stufield/enveda,2026-11-02,0,0
 stufield/enveda,2026-11-03,0,0
 stufield/enveda,2026-11-04,0,0
 stufield/enveda,2026-11-05,0,0
+stufield/enveda,2026-11-06,0,0
 stufield/featureselectr,2026-08-04,0,0
 stufield/featureselectr,2026-08-05,0,0
 stufield/featureselectr,2026-08-06,11,3
@@ -1119,6 +1127,7 @@ stufield/git-hooks,2026-11-01,0,0
 stufield/git-hooks,2026-11-02,0,0
 stufield/git-hooks,2026-11-03,0,0
 stufield/git-hooks,2026-11-04,0,0
+stufield/git-hooks,2026-11-05,0,0
 stufield/git-STAA-577,2026-08-04,1,1
 stufield/git-STAA-577,2026-08-05,0,0
 stufield/git-STAA-577,2026-08-06,0,0
@@ -1772,6 +1781,7 @@ stufield/illumina-senior-bioinformatics,2026-11-02,0,0
 stufield/illumina-senior-bioinformatics,2026-11-03,0,0
 stufield/illumina-senior-bioinformatics,2026-11-04,0,0
 stufield/illumina-senior-bioinformatics,2026-11-05,0,0
+stufield/illumina-senior-bioinformatics,2026-11-06,0,0
 stufield/libml,2026-08-04,0,0
 stufield/libml,2026-08-05,0,0
 stufield/libml,2026-08-06,0,0
@@ -1865,6 +1875,7 @@ stufield/libml,2026-11-01,0,0
 stufield/libml,2026-11-02,0,0
 stufield/libml,2026-11-03,0,0
 stufield/libml,2026-11-04,0,0
+stufield/libml,2026-11-05,0,0
 stufield/megaverse,2026-08-05,0,0
 stufield/megaverse,2026-08-06,0,0
 stufield/megaverse,2026-08-07,0,0
@@ -1958,6 +1969,7 @@ stufield/megaverse,2026-11-02,0,0
 stufield/megaverse,2026-11-03,0,0
 stufield/megaverse,2026-11-04,0,0
 stufield/megaverse,2026-11-05,0,0
+stufield/megaverse,2026-11-06,0,0
 stufield/mehan-scripts,2026-08-01,0,0
 stufield/mehan-scripts,2026-08-02,0,0
 stufield/mehan-scripts,2026-08-03,0,0
@@ -2432,6 +2444,7 @@ stufield/mosquitoSNP,2026-11-01,0,0
 stufield/mosquitoSNP,2026-11-02,0,0
 stufield/mosquitoSNP,2026-11-03,0,0
 stufield/mosquitoSNP,2026-11-04,0,0
+stufield/mosquitoSNP,2026-11-05,0,0
 stufield/ms-art-projection,2026-07-25,0,0
 stufield/ms-art-projection,2026-07-26,0,0
 stufield/ms-art-projection,2026-07-27,0,0
@@ -2535,6 +2548,7 @@ stufield/ms-art-projection,2026-11-01,0,0
 stufield/ms-art-projection,2026-11-02,0,0
 stufield/ms-art-projection,2026-11-03,0,0
 stufield/ms-art-projection,2026-11-04,0,0
+stufield/ms-art-projection,2026-11-05,0,0
 stufield/ny-mets,2026-08-05,0,0
 stufield/ny-mets,2026-08-06,0,0
 stufield/ny-mets,2026-08-07,0,0
@@ -2628,6 +2642,7 @@ stufield/ny-mets,2026-11-02,0,0
 stufield/ny-mets,2026-11-03,0,0
 stufield/ny-mets,2026-11-04,0,0
 stufield/ny-mets,2026-11-05,0,0
+stufield/ny-mets,2026-11-06,0,0
 stufield/packages-report,2026-08-04,0,0
 stufield/packages-report,2026-08-05,0,0
 stufield/packages-report,2026-08-06,0,0
@@ -2906,6 +2921,7 @@ stufield/plumber-api-example,2026-11-02,0,0
 stufield/plumber-api-example,2026-11-03,0,0
 stufield/plumber-api-example,2026-11-04,0,0
 stufield/plumber-api-example,2026-11-05,0,0
+stufield/plumber-api-example,2026-11-06,0,0
 stufield/power,2026-08-04,0,0
 stufield/power,2026-08-05,0,0
 stufield/power,2026-08-06,0,0
@@ -3106,6 +3122,7 @@ stufield/property-mgmt,2026-11-01,0,0
 stufield/property-mgmt,2026-11-02,0,0
 stufield/property-mgmt,2026-11-03,0,0
 stufield/property-mgmt,2026-11-04,0,0
+stufield/property-mgmt,2026-11-05,0,0
 stufield/recipes,2026-07-21,0,0
 stufield/recipes,2026-07-22,0,0
 stufield/recipes,2026-07-23,0,0
@@ -3304,6 +3321,7 @@ stufield/red-sox,2026-11-02,0,0
 stufield/red-sox,2026-11-03,0,0
 stufield/red-sox,2026-11-04,0,0
 stufield/red-sox,2026-11-05,0,0
+stufield/red-sox,2026-11-06,0,0
 stufield/repo-views,2026-08-05,0,0
 stufield/repo-views,2026-08-06,0,0
 stufield/repo-views,2026-08-07,0,0
@@ -3768,6 +3786,7 @@ stufield/sandbox,2026-11-02,0,0
 stufield/sandbox,2026-11-03,0,0
 stufield/sandbox,2026-11-04,0,0
 stufield/sandbox,2026-11-05,0,0
+stufield/sandbox,2026-11-06,0,0
 stufield/slide-template,2026-08-04,0,0
 stufield/slide-template,2026-08-05,0,0
 stufield/slide-template,2026-08-06,0,0
@@ -3954,6 +3973,7 @@ stufield/soma-dump,2026-11-02,0,0
 stufield/soma-dump,2026-11-03,0,0
 stufield/soma-dump,2026-11-04,0,0
 stufield/soma-dump,2026-11-05,0,0
+stufield/soma-dump,2026-11-06,0,0
 stufield/SomaDataIO,2026-08-04,0,0
 stufield/SomaDataIO,2026-08-05,2,2
 stufield/SomaDataIO,2026-08-06,0,0
@@ -4149,6 +4169,7 @@ stufield/SomaPlotr,2026-11-01,0,0
 stufield/SomaPlotr,2026-11-02,0,0
 stufield/SomaPlotr,2026-11-03,0,0
 stufield/SomaPlotr,2026-11-04,0,0
+stufield/SomaPlotr,2026-11-05,0,0
 stufield/stabilityselectr,2026-08-04,0,0
 stufield/stabilityselectr,2026-08-05,9,2
 stufield/stabilityselectr,2026-08-06,7,1
@@ -4332,6 +4353,7 @@ stufield/stu-field-lab-results,2026-11-01,0,0
 stufield/stu-field-lab-results,2026-11-02,0,0
 stufield/stu-field-lab-results,2026-11-03,0,0
 stufield/stu-field-lab-results,2026-11-04,0,0
+stufield/stu-field-lab-results,2026-11-05,0,0
 stufield/stufield,2026-08-04,1,1
 stufield/stufield,2026-08-05,0,0
 stufield/stufield,2026-08-06,0,0
@@ -4611,6 +4633,7 @@ stufield/tar-backup,2026-11-02,0,0
 stufield/tar-backup,2026-11-03,0,0
 stufield/tar-backup,2026-11-04,0,0
 stufield/tar-backup,2026-11-05,0,0
+stufield/tar-backup,2026-11-06,0,0
 stufield/tech-interview-coding,2026-08-04,0,0
 stufield/tech-interview-coding,2026-08-05,0,0
 stufield/tech-interview-coding,2026-08-06,0,0
@@ -5079,6 +5102,7 @@ stufield/tools,2026-11-02,0,0
 stufield/tools,2026-11-03,0,0
 stufield/tools,2026-11-04,0,0
 stufield/tools,2026-11-05,0,0
+stufield/tools,2026-11-06,0,0
 stufield/White-Pine-Blister-Rust,2026-08-04,0,0
 stufield/White-Pine-Blister-Rust,2026-08-05,0,0
 stufield/White-Pine-Blister-Rust,2026-08-06,0,0
@@ -5172,6 +5196,7 @@ stufield/White-Pine-Blister-Rust,2026-11-01,0,0
 stufield/White-Pine-Blister-Rust,2026-11-02,0,0
 stufield/White-Pine-Blister-Rust,2026-11-03,0,0
 stufield/White-Pine-Blister-Rust,2026-11-04,0,0
+stufield/White-Pine-Blister-Rust,2026-11-05,0,0
 stufield/wranglr,2026-08-04,0,0
 stufield/wranglr,2026-08-05,0,0
 stufield/wranglr,2026-08-06,0,0
@@ -5265,6 +5290,7 @@ stufield/wranglr,2026-11-01,0,0
 stufield/wranglr,2026-11-02,0,0
 stufield/wranglr,2026-11-03,0,0
 stufield/wranglr,2026-11-04,0,0
+stufield/wranglr,2026-11-05,0,0
 stufield/wtf-2019-rsc,2026-07-25,0,0
 stufield/wtf-2019-rsc,2026-07-26,0,0
 stufield/wtf-2019-rsc,2026-07-27,0,0
