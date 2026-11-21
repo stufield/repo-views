@@ -980,6 +980,7 @@ stufield/devel,2026-11-16,0,0
 stufield/devel,2026-11-17,0,0
 stufield/devel,2026-11-18,0,0
 stufield/devel,2026-11-19,0,0
+stufield/devel,2026-11-20,0,0
 stufield/enveda,2026-08-05,0,0
 stufield/enveda,2026-08-06,0,0
 stufield/enveda,2026-08-07,0,0
@@ -1197,6 +1198,7 @@ stufield/featureselectr,2026-11-16,0,0
 stufield/featureselectr,2026-11-17,0,0
 stufield/featureselectr,2026-11-18,0,0
 stufield/featureselectr,2026-11-19,0,0
+stufield/featureselectr,2026-11-20,0,0
 stufield/git-hooks,2026-08-04,0,0
 stufield/git-hooks,2026-08-05,0,0
 stufield/git-hooks,2026-08-06,0,0
@@ -1739,6 +1741,7 @@ stufield/helpr,2026-11-16,0,0
 stufield/helpr,2026-11-17,0,0
 stufield/helpr,2026-11-18,0,0
 stufield/helpr,2026-11-19,1,1
+stufield/helpr,2026-11-20,0,0
 stufield/hex-images,2026-08-02,0,0
 stufield/hex-images,2026-08-03,0,0
 stufield/hex-images,2026-08-04,0,0
@@ -2396,6 +2399,7 @@ stufield/mehan-scripts,2026-11-16,0,0
 stufield/mehan-scripts,2026-11-17,0,0
 stufield/mehan-scripts,2026-11-18,0,0
 stufield/mehan-scripts,2026-11-19,0,0
+stufield/mehan-scripts,2026-11-20,0,0
 stufield/methyl-seq-analysis,2026-08-01,0,0
 stufield/methyl-seq-analysis,2026-08-02,0,0
 stufield/methyl-seq-analysis,2026-08-03,0,0
@@ -2507,6 +2511,7 @@ stufield/methyl-seq-analysis,2026-11-16,0,0
 stufield/methyl-seq-analysis,2026-11-17,0,0
 stufield/methyl-seq-analysis,2026-11-18,0,0
 stufield/methyl-seq-analysis,2026-11-19,0,0
+stufield/methyl-seq-analysis,2026-11-20,0,0
 stufield/mixr,2026-08-05,0,0
 stufield/mixr,2026-08-06,0,0
 stufield/mixr,2026-08-07,0,0
@@ -2727,6 +2732,7 @@ stufield/monty-hall-paradox,2026-11-16,0,0
 stufield/monty-hall-paradox,2026-11-17,0,0
 stufield/monty-hall-paradox,2026-11-18,0,0
 stufield/monty-hall-paradox,2026-11-19,0,0
+stufield/monty-hall-paradox,2026-11-20,0,0
 stufield/mosquitoSNP,2026-08-04,0,0
 stufield/mosquitoSNP,2026-08-05,0,0
 stufield/mosquitoSNP,2026-08-06,0,0
@@ -4066,6 +4072,7 @@ stufield/reprex-collection,2026-11-16,0,0
 stufield/reprex-collection,2026-11-17,0,0
 stufield/reprex-collection,2026-11-18,0,0
 stufield/reprex-collection,2026-11-19,0,0
+stufield/reprex-collection,2026-11-20,0,0
 stufield/rstudio-conf-2018,2026-08-04,0,0
 stufield/rstudio-conf-2018,2026-08-05,0,0
 stufield/rstudio-conf-2018,2026-08-06,0,0
@@ -4174,6 +4181,7 @@ stufield/rstudio-conf-2018,2026-11-16,0,0
 stufield/rstudio-conf-2018,2026-11-17,0,0
 stufield/rstudio-conf-2018,2026-11-18,0,0
 stufield/rstudio-conf-2018,2026-11-19,0,0
+stufield/rstudio-conf-2018,2026-11-20,0,0
 stufield/rstudio-conf-2019,2026-08-04,0,0
 stufield/rstudio-conf-2019,2026-08-05,0,0
 stufield/rstudio-conf-2019,2026-08-06,0,0
@@ -5587,6 +5595,7 @@ stufield/tech-notes,2026-11-16,0,0
 stufield/tech-notes,2026-11-17,0,0
 stufield/tech-notes,2026-11-18,0,0
 stufield/tech-notes,2026-11-19,0,0
+stufield/tech-notes,2026-11-20,0,0
 stufield/TestPkg,2026-08-04,0,0
 stufield/TestPkg,2026-08-05,0,0
 stufield/TestPkg,2026-08-06,0,0
@@ -5807,6 +5816,7 @@ stufield/tidy-tools-2018,2026-11-16,0,0
 stufield/tidy-tools-2018,2026-11-17,0,0
 stufield/tidy-tools-2018,2026-11-18,0,0
 stufield/tidy-tools-2018,2026-11-19,0,0
+stufield/tidy-tools-2018,2026-11-20,0,0
 stufield/tools,2026-08-05,0,0
 stufield/tools,2026-08-06,0,0
 stufield/tools,2026-08-07,0,0
