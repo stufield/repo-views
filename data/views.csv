@@ -686,6 +686,7 @@ stufield/code-works,2026-11-22,0,0
 stufield/code-works,2026-11-23,0,0
 stufield/code-works,2026-11-24,0,0
 stufield/code-works,2026-11-25,0,0
+stufield/code-works,2026-11-26,0,0
 stufield/COVID-19,2026-07-31,0,0
 stufield/COVID-19,2026-08-01,0,0
 stufield/COVID-19,2026-08-02,0,0
@@ -1266,6 +1267,7 @@ stufield/featureselectr,2026-11-22,0,0
 stufield/featureselectr,2026-11-23,0,0
 stufield/featureselectr,2026-11-24,0,0
 stufield/featureselectr,2026-11-25,0,0
+stufield/featureselectr,2026-11-26,0,0
 stufield/git-hooks,2026-08-04,0,0
 stufield/git-hooks,2026-08-05,0,0
 stufield/git-hooks,2026-08-06,0,0
@@ -1495,6 +1497,7 @@ stufield/git-STAA-577,2026-11-22,1,1
 stufield/git-STAA-577,2026-11-23,0,0
 stufield/git-STAA-577,2026-11-24,0,0
 stufield/git-STAA-577,2026-11-25,0,0
+stufield/git-STAA-577,2026-11-26,0,0
 stufield/gitr,2026-08-04,0,0
 stufield/gitr,2026-08-05,0,0
 stufield/gitr,2026-08-06,0,0
@@ -2766,6 +2769,7 @@ stufield/mixr,2026-11-22,0,0
 stufield/mixr,2026-11-23,0,0
 stufield/mixr,2026-11-24,0,0
 stufield/mixr,2026-11-25,0,0
+stufield/mixr,2026-11-26,0,0
 stufield/monty-hall-paradox,2026-07-31,1,1
 stufield/monty-hall-paradox,2026-08-01,0,0
 stufield/monty-hall-paradox,2026-08-02,0,0
@@ -2884,6 +2888,7 @@ stufield/monty-hall-paradox,2026-11-22,0,0
 stufield/monty-hall-paradox,2026-11-23,0,0
 stufield/monty-hall-paradox,2026-11-24,0,0
 stufield/monty-hall-paradox,2026-11-25,0,0
+stufield/monty-hall-paradox,2026-11-26,0,0
 stufield/mosquitoSNP,2026-08-04,0,0
 stufield/mosquitoSNP,2026-08-05,0,0
 stufield/mosquitoSNP,2026-08-06,0,0
@@ -3353,6 +3358,7 @@ stufield/packages-report,2026-11-22,0,0
 stufield/packages-report,2026-11-23,0,0
 stufield/packages-report,2026-11-24,0,0
 stufield/packages-report,2026-11-25,0,0
+stufield/packages-report,2026-11-26,0,0
 stufield/pcapkg,2026-08-04,0,0
 stufield/pcapkg,2026-08-05,0,0
 stufield/pcapkg,2026-08-06,0,0
@@ -3825,6 +3831,7 @@ stufield/property-mgmt,2026-11-22,0,0
 stufield/property-mgmt,2026-11-23,0,0
 stufield/property-mgmt,2026-11-24,0,0
 stufield/property-mgmt,2026-11-25,0,0
+stufield/property-mgmt,2026-11-26,0,0
 stufield/recipes,2026-07-21,0,0
 stufield/recipes,2026-07-22,0,0
 stufield/recipes,2026-07-23,0,0
@@ -4525,6 +4532,7 @@ stufield/rstudio-conf-2019,2026-11-22,0,0
 stufield/rstudio-conf-2019,2026-11-23,0,0
 stufield/rstudio-conf-2019,2026-11-24,0,0
 stufield/rstudio-conf-2019,2026-11-25,0,0
+stufield/rstudio-conf-2019,2026-11-26,0,0
 stufield/sandbox,2026-08-05,0,0
 stufield/sandbox,2026-08-06,0,0
 stufield/sandbox,2026-08-07,0,0
@@ -4754,6 +4762,7 @@ stufield/slide-template,2026-11-22,0,0
 stufield/slide-template,2026-11-23,0,0
 stufield/slide-template,2026-11-24,0,0
 stufield/slide-template,2026-11-25,0,0
+stufield/slide-template,2026-11-26,0,0
 stufield/soma-dump,2026-08-05,0,0
 stufield/soma-dump,2026-08-06,0,0
 stufield/soma-dump,2026-08-07,0,0
@@ -5104,6 +5113,10 @@ stufield/SomaPlotr,2026-11-19,0,0
 stufield/SomaPlotr,2026-11-20,0,0
 stufield/SomaPlotr,2026-11-21,0,0
 stufield/SomaPlotr,2026-11-22,0,0
+stufield/SomaPlotr,2026-11-23,0,0
+stufield/SomaPlotr,2026-11-24,0,0
+stufield/SomaPlotr,2026-11-25,0,0
+stufield/SomaPlotr,2026-11-26,0,0
 stufield/stabilityselectr,2026-08-04,0,0
 stufield/stabilityselectr,2026-08-05,9,2
 stufield/stabilityselectr,2026-08-06,7,1
@@ -5218,6 +5231,7 @@ stufield/stabilityselectr,2026-11-22,0,0
 stufield/stabilityselectr,2026-11-23,0,0
 stufield/stabilityselectr,2026-11-24,0,0
 stufield/stabilityselectr,2026-11-25,0,0
+stufield/stabilityselectr,2026-11-26,0,0
 stufield/stu-field-lab-results,2026-08-01,0,0
 stufield/stu-field-lab-results,2026-08-02,0,0
 stufield/stu-field-lab-results,2026-08-03,0,0
@@ -5892,6 +5906,7 @@ stufield/tech-notes,2026-11-22,0,0
 stufield/tech-notes,2026-11-23,0,0
 stufield/tech-notes,2026-11-24,0,0
 stufield/tech-notes,2026-11-25,0,0
+stufield/tech-notes,2026-11-26,0,0
 stufield/TestPkg,2026-08-04,0,0
 stufield/TestPkg,2026-08-05,0,0
 stufield/TestPkg,2026-08-06,0,0
@@ -6124,6 +6139,7 @@ stufield/tidy-tools-2018,2026-11-22,0,0
 stufield/tidy-tools-2018,2026-11-23,0,0
 stufield/tidy-tools-2018,2026-11-24,0,0
 stufield/tidy-tools-2018,2026-11-25,0,0
+stufield/tidy-tools-2018,2026-11-26,0,0
 stufield/tools,2026-08-05,0,0
 stufield/tools,2026-08-06,0,0
 stufield/tools,2026-08-07,0,0
@@ -6353,6 +6369,7 @@ stufield/White-Pine-Blister-Rust,2026-11-22,0,0
 stufield/White-Pine-Blister-Rust,2026-11-23,0,0
 stufield/White-Pine-Blister-Rust,2026-11-24,0,0
 stufield/White-Pine-Blister-Rust,2026-11-25,0,0
+stufield/White-Pine-Blister-Rust,2026-11-26,0,0
 stufield/wranglr,2026-08-04,0,0
 stufield/wranglr,2026-08-05,0,0
 stufield/wranglr,2026-08-06,0,0
